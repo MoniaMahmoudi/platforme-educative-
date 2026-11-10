@@ -1,0 +1,6 @@
+{
+  "name": "CyberIQ 8th Grade - Digital Defense Academy",
+  "description": "Interactive cybersecurity, personal privacy, strong passwords, stranger messaging defense, and cyberbullying prevention platform tailored for 8th grade students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
